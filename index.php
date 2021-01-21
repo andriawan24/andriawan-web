@@ -6,6 +6,6 @@
     <title>Hello World</title>
 </head>
 <body>
-    <p>Hello</p>
+    <p><?= phpinfo() ?></p>
 </body>
 </html>
